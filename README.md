@@ -1,1 +1,1 @@
-# exercises-of-data-structure-lab-I
+# Listas obrigatórias de Algoritmo e Estrutura de Dados I
