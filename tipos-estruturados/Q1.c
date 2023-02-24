@@ -165,7 +165,7 @@ int main(int argc, char *argv[]) {
 turmas */
     if (turmas[i] == NULL) {
       printf("Erro, sem memoria suficiente.\n");
-      return 1;
+      exit(1);
     }
   }
   size_t opt = 0; /* variavel de controle das opçoes do menu */
